@@ -1,5 +1,5 @@
-# NellyKorda-fan-card-application
-Welcome to the Nelly Korda Fan application Portal.
+# Nelly-Korda-fan-card-application-portal
+Welcome to the Nelly Korda Fan card application Portal.
 
 Please complete the application form accurately. Applications will be reviewed after submission. Membership benefits vary by selected plan.
 
